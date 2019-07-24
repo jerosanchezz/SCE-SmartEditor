@@ -1,4 +1,4 @@
-# SmartCranberryEditor
+# SCE-SmartEditor
 
 This editor can be used for simple document modification, sharing documents, reading documents, powerful contrast functions, and a good helper for your study.	
 
